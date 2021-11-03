@@ -3,7 +3,7 @@ int i, j;
 
 void setup()
 {
-  size(1400, 1400);
+  size(800, 800);
   background(255);
   chemotaxisArray = new Bacteria[4][4];
   for (i = 0; i < 4; i++)
